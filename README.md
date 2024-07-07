@@ -2,9 +2,7 @@
 
 **`Electronics Engineer | Python Web Developer`**
 
-Passionate about technologies and innovations. I am eager to embark on a dynamic career journey in the field of Engineering Automation and Web API Development. Throughout my academic pursuits, I have cultivated a strong foundation in programming languages such as Python, C, and JavaScript, along with practical experience in electronic circuits, embedded systems, and web applications.
-
-I am committed to continuous learning and growth in many areas. I am excited to apply my knowledge and skills to real-world challenges, contributing fresh perspectives and innovative solutions.
+I am eager to embark on a dynamic career journey in the field of Engineering Automation and Web API Development. Throughout my academic pursuits, I have cultivated a strong foundation in programming languages such as Python, C, and JavaScript, along with practical experience in electronic circuits, embedded systems, and web applications. I am committed to continuous learning and growth in many areas. I am excited to apply my knowledge and skills to real-world challenges, contributing fresh perspectives and innovative solutions.
 
 ---
 
