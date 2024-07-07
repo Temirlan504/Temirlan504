@@ -7,7 +7,7 @@ I am eager to embark on a dynamic career journey in the field of Engineering Aut
 ---
 
 ### Languages and Tools:
-<p>
+<p style="display: flex; gap: 10px;">
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
     <img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
