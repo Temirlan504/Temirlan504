@@ -8,7 +8,7 @@ I am committed to continuous learning and growth in many areas. I am excited to 
 
 ---
 
-### 💻 Languages and Tools:
+### Languages and Tools:
 <p>
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
