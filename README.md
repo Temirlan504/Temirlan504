@@ -29,7 +29,7 @@ I am eager to embark on a dynamic career journey in the field of Engineering Aut
 ### 💼 My Experiences
 
 <p>
-    <strong>Capstone Project - Mars Rover Replica</strong><br>
+    <strong><a href="https://github.com/Temirlan504/Percy">Capstone Project - Mars Rover Replica</a></strong><br>
     One of my significant achievements during my coursework was leading a capstone project where I managed a team to develop a Perseverance Mars Rover replica. This project involved utilizing a Raspberry Pi 4 as a Web Server, integrating an ADC module through I2C communication, PWM generation for the motors, and designing a power circuit to support the rover’s functionality. The software part included integration and development of a Web Application using Python to receive a live video from the rover's camera. Moreover, the Web Page included virtual controls for the motors that used JavaScript, HTML, and CSS on the Front-end. The project emphasized my ability to independently manage project priorities and deadlines, demonstrating both my technical and project management skills.
 </p>
 
